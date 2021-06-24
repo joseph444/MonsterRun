@@ -1,0 +1,4 @@
+#Fri Jun 25 04:03:28 IST 2021
+base.0=/home/subhro/Desktop/Projects/unity/MonsterRun/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
